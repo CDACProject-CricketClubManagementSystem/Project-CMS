@@ -23,6 +23,7 @@ function HomePage() {
     <div className="d-flex flex-column min-vh-100">
       <Container className="mb-4 flex-grow-1">
         <h1 className="text-center mb-4">Welcome to Cricket Club Management System</h1>
+Club cricket
         
         <Row>
           <Col md={4}>
