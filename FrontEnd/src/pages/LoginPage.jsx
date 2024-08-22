@@ -28,9 +28,7 @@ function LoginPage({ onLogin }) {
 
         dispatch(login1(data.user));
      
-       
-       
-       
+        
           navigate('/');
         
       } else {
